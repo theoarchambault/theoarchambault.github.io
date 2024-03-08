@@ -1,5 +1,4 @@
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-![Alt text](https://github.com/theoarchambault/theoarchambault.github.io/blob/main/Theoarchambault.jpeg "")
+![Alt text](https://github.com/theoarchambault/theoarchambault.github.io/blob/main/Theoarchambault.jpeg )
 
 
 I am a Ph.D. candidate at Sorbonne University, LIP6, my thesis advisor is Dominique Béréziat with Anastase Charantonis as co-supervisor. I study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature. 
