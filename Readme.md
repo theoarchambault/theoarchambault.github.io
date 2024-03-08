@@ -1,8 +1,5 @@
 
-<img src='Theoarchambault.jpeg' width='25'>
-
-![Alt text](Theoarchambault.jpeg | width=100)
-
+<img src='Theoarchambault.jpeg' width='250'>
 
 I am a Ph.D. candidate at Sorbonne University, LIP6, my thesis advisor is Dominique Béréziat with Anastase Charantonis as co-supervisor. I study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature. 
  
