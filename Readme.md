@@ -1,3 +1,6 @@
+
+<img src='Theoarchambault.jpeg' width='25'>
+
 ![Alt text](Theoarchambault.jpeg | width=100)
 
 
