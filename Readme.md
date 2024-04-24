@@ -21,6 +21,8 @@ Archambault, T., Filoche, A., Charantonis, A.A., & Béréziat, D. (2023). Multim
 
 Filoche, A., Archambault, T., Charantonis, A.A., & Béréziat, D. (2022). Statistics-Free Interpolation of Ocean Observations with Deep Spatio-Temporal Prior. ECML MACLEAN workshop. <a href="https://www.semanticscholar.org/paper/Statistics-Free-Interpolation-of-Ocean-Observations-Filoche-Archambault/48fe4b7da62991ebc1cf0328c5b349b37fe9c776" target="_blank">file </a> 
 
+Archambault, T. ,Filoche, A., Charantonis, A.A., & Béréziat, D. (2022). Unlearned Downscaling of Sea Surface Height with Deep Image Prior. ICLR AI for Earth Science Workshop. <a href="https://hal.sorbonne-universite.fr/hal-03659040/document" target="_blank">file </a> 
+
 Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). SSH Super-Resolution using high resolution SST with a Subpixel Convolutional Residual Network*. Climate Informatics. <a href="https://www.semanticscholar.org/paper/Sea-surface-height-super-resolution-using-sea-with-Archambault-Charantonis/3784e709ef4b5301e33bbfe119b91c1c7acd0204" target="_blank">file </a> 
 
 ## Preprint
