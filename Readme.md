@@ -29,3 +29,21 @@ Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). SSH Super
 
 Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations. ArXiv, abs/2310.07626. <a href="https://www.semanticscholar.org/reader/220b8f0bfeae4ae9701cc4dc7fcabb569383171e" target="_blank"> file </a> 
 
+
+# Presentations
+
+## In conferences
+
+VISAPP 2023: Poster presentation (on cite): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/posters/VISAPP2023_poster.pdf" target="_blank"> poster </a> 
+
+RFIAP 2022: Poster presentation (on cite) <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/posters/RFIAP_poster.pdf" target="_blank"> poster </a>. It is an accepted resubmission of my work in Climate informatics 2022.
+
+
+
+
+
+
+
+
+
+
