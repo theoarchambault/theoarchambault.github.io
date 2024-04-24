@@ -34,7 +34,6 @@ Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2
 
 ## In conferences
 
-
 EGU 2024: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/EGU2024.pdf" target="_blank"> slides </a> , <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/abstract/EGU24-17465-print.pdf" target="_blank"> abstract </a> 
 
 VISAPP 2024: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/VISAPP2024.pdf" target="_blank"> slides </a> 
@@ -44,5 +43,24 @@ VISAPP 2023: Poster presentation (on site): <a href="https://github.com/theoarch
 RFIAP 2022: Poster presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/posters/RFIAP_poster.pdf" target="_blank"> poster </a>. It is an accepted resubmission of my work in Climate informatics 2022.
 
 Climate Informatics 2022: Oral presentation (online): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/CI2022.pdf" target="_blank"> slides </a>. 
+
+
+## In seminar and study groups
+
+Telecom Paris Seminar 2023: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/Seminar2024.pdf" target="_blank"> slides </a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
