@@ -49,7 +49,9 @@ Climate Informatics 2022: Oral presentation (online): <a href="https://github.co
 
 Telecom Paris Seminar 2023: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/Seminar2024.pdf" target="_blank"> slides </a> 
 
+Formal-v2 launch day (2023) : Poster presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-v2-kick-off-march-21st-2023/" target="_blank"> link </a> 
 
+SAMA/SCAI study group 2022: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/SAMA2022.pdf" target="_blank"> slides </a> 
 
 
 
