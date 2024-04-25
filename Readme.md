@@ -29,7 +29,7 @@ Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). SSH Super
 
 ## Preprint
 
-Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations. ArXiv, abs/2310.07626. <a href="https://essopenarchive.org/users/670252/articles/670372-unsupervised-learning-of-sea-surface-height-interpolation-from-multi-variate-simulated-satellite-observations" target="_blank"> link </a> 
+Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations. ArXiv, abs/2310.07626. <a href="https://essopenarchive.org/users/670252/articles/670372-unsupervised-learning-of-sea-surface-height-interpolation-from-multi-variate-simulated-satellite-observations" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2023_preprint.pdf" target="_blank"> file </a> 
 
 
 # Presentations
