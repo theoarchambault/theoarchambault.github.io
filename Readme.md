@@ -48,7 +48,7 @@ Climate Informatics 2022: Oral presentation (online): <a href="https://github.co
 
 
 ## In seminar and study groups
-Formal-v2 launch day 2024 : Oral presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-scientific-day-2024/" target="_blank"> link </a> <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/FORMAL_2024.pdf" target="_blank"> link </a> 
+Formal-v2 launch day 2024 : Oral presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-scientific-day-2024/" target="_blank"> link </a> <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/FORMAL_2024.pdf" target="_blank"> slides </a> 
 
 Telecom Paris Seminar 2023: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/Seminar2024.pdf" target="_blank"> slides </a> 
 
