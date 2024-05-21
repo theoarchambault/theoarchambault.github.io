@@ -27,7 +27,7 @@ Archambault, T. ,Filoche, A., Charantonis, A.A., & Béréziat, D. (2022). Unlear
 
 Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). SSH Super-Resolution using high resolution SST with a Subpixel Convolutional Residual Network*. Climate Informatics. <a href="https://www.semanticscholar.org/paper/Sea-surface-height-super-resolution-using-sea-with-Archambault-Charantonis/3784e709ef4b5301e33bbfe119b91c1c7acd0204" target="_blank">link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/CI2021.pdf" target="_blank"> file </a> 
 
-## Preprint
+## Preprint (accepted, soon to come)
 
 Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations. ArXiv, abs/2310.07626. <a href="https://essopenarchive.org/users/670252/articles/670372-unsupervised-learning-of-sea-surface-height-interpolation-from-multi-variate-simulated-satellite-observations" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2023_preprint.pdf" target="_blank"> file </a> 
 
@@ -48,10 +48,11 @@ Climate Informatics 2022: Oral presentation (online): <a href="https://github.co
 
 
 ## In seminar and study groups
+Formal-v2 launch day 2024 : Oral presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-scientific-day-2024/" target="_blank"> link </a> <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/FORMAL_2024.pdf" target="_blank"> link </a> 
 
 Telecom Paris Seminar 2023: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/Seminar2024.pdf" target="_blank"> slides </a> 
 
-Formal-v2 launch day (2023) : Poster presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-v2-kick-off-march-21st-2023/" target="_blank"> link </a> 
+Formal-v2 launch day 2023 : Poster presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-v2-kick-off-march-21st-2023/" target="_blank"> link </a> 
 
 SAMA/SCAI study group 2022: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/SAMA2022.pdf" target="_blank"> slides </a> 
 
