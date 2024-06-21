@@ -17,7 +17,7 @@ Archambault, T., Charantonis, A.A., Béréziat, D., Mejia, C., & Thiria, S. (202
 
 ## Conference
 
-Archambault, T., Filoche, A., Charantonis, A., & Béréziat, D. (2024). *Pre-training and Fine-tuning Attention Based Encoder Decoder Improves Sea Surface Height Multi-variate Inpainting*. VISAPP. <a href="https://doi.org/DOI: 10.5220/0012357400003660" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2024.pdf" target="_blank"> file </a> 
+Archambault, T., Filoche, A., Charantonis, A., & Béréziat, D. (2024). Pre-training and Fine-tuning Attention Based Encoder Decoder Improves Sea Surface Height Multi-variate Inpainting*. VISAPP. <a href="https://doi.org/DOI: 10.5220/0012357400003660" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2024.pdf" target="_blank"> file </a> 
 
 
 Archambault, T., Filoche, A., Charantonis, A.A., & Béréziat, D. (2023). Multimodal Unsupervised Spatio-Temporal Interpolation of Satellite Ocean Altimetry Maps. VISAPP.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0011620100003417" target="_blank"> link </a> , <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2023.pdf" target="_blank"> file </a> 
