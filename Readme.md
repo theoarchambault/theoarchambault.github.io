@@ -7,6 +7,7 @@ Contact: <a href="mailto:theo.archambault@lip6.fr">theo.archambault@lip6.fr</a> 
 # Publications
 
 ## Journal
+Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2024). Learning Sea Surface Height Interpolation From Multi-Variate Simulated Satellite Observations. Journal of Advances in Modeling Earth Systems (JAMES). <a href=https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS004047" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2024.pdf" target="_blank"> file </a> 
 
 Thiria, S., Sorror, C., Archambault, T., Charantonis, A.A., Béréziat, D., Mejia, C., Molines, J.M., & Crépon, M. (2023). Downscaling of ocean fields by fusion of heterogeneous observations using Deep Learning algorithms. Ocean Modelling. <a href="https://www.sciencedirect.com/science/article/pii/S146350032300015X?via%3Dihub" target="_blank"> link </a> (ask me the file in an email)
 
@@ -27,7 +28,7 @@ Archambault, T. ,Filoche, A., Charantonis, A.A., & Béréziat, D. (2022). Unlear
 
 Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). SSH Super-Resolution using high resolution SST with a Subpixel Convolutional Residual Network*. Climate Informatics. <a href="https://www.semanticscholar.org/paper/Sea-surface-height-super-resolution-using-sea-with-Archambault-Charantonis/3784e709ef4b5301e33bbfe119b91c1c7acd0204" target="_blank">link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/CI2021.pdf" target="_blank"> file </a> 
 
-## Preprint (accepted, soon to come)
+## Preprint 
 
 Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations. ArXiv, abs/2310.07626. <a href="https://essopenarchive.org/users/670252/articles/670372-unsupervised-learning-of-sea-surface-height-interpolation-from-multi-variate-simulated-satellite-observations" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2023_preprint.pdf" target="_blank"> file </a> 
 
