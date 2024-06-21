@@ -8,7 +8,7 @@ Contact: <a href="mailto:theo.archambault@lip6.fr">theo.archambault@lip6.fr</a> 
 
 ## Journal
 
-Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2024). *Learning Sea Surface Height Interpolation From Multi-Variate Simulated Satellite Observations*. Journal of Advances in Modeling Earth Systems (JAMES). <a href=https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS004047" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2024.pdf" target="_blank"> file </a> 
+Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2024). *Learning Sea Surface Height Interpolation From Multi-Variate Simulated Satellite Observations*. Journal of Advances in Modeling Earth Systems (JAMES). <a href=https://www.sciencedirect.com/science/article/pii/S146350032300015X?via%3Dihub" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2024.pdf" target="_blank"> file </a> 
 
 Thiria, S., Sorror, C., Archambault, T., Charantonis, A.A., Béréziat, D., Mejia, C., Molines, J.M., & Crépon, M. (2023). *Downscaling of ocean fields by fusion of heterogeneous observations using Deep Learning algorithms*. Ocean Modelling. <a href="https://www.sciencedirect.com/science/article/pii/S146350032300015X?via%3Dihub" target="_blank"> link </a> (ask me the file in an email)
 
