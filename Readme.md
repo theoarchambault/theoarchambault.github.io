@@ -1,8 +1,10 @@
 <img src='Theoarchambault.jpeg' width='250'>
 
-I am a Ph.D. candidate at Sorbonne University, LIP6, my thesis advisor is Dominique Béréziat with Anastase Charantonis as co-supervisor. I study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature. 
- 
-Contact: <a href="mailto:theo.archambault@lip6.fr">theo.archambault@lip6.fr</a> , <a href="https://www.researchgate.net/profile/Theo-Archambault" target="_blank">Research Gate</a>,  <a href="https://www.semanticscholar.org/author/Th%C3%A9o-Archambault/1387907072" target="_blank">Semantic Scholar</a>, <a href="https://scholar.google.com/citations?user=Lb0HoBkAAAAJ&hl=fr" target="_blank">Google Scholar</a>
+I am Ph.D. in computer science applied to oceanography, at Sorbonne University, LIP6, under the supervision of Dominique Béréziat and Anastase Charantonis. I am now working at <a href="https://www.amphitrite.fr/" target="_blank"> Amphitrite </a>, as a computer vision R&D researcher.
+I am interested in all research bridging geosciences and machine learning but I mainly study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature. 
+During my Ph.D., <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/thesis/These_Archambault.pdf" target="_blank"> (manuscript) </a>, I designed deep learning models to reconstruct the Sea Surface Height (SSH) using multivariate satellite observations, presenting various noise sources. If you have any question about similar work or related matters feel free to contact me.
+
+Contact: <a href="mailto:theo.archambault@amphitrite.fr">theo.archambault@amphitrite.fr</a> , <a href="https://www.researchgate.net/profile/Theo-Archambault" target="_blank">Research Gate</a>,  <a href="https://www.semanticscholar.org/author/Th%C3%A9o-Archambault/1387907072" target="_blank">Semantic Scholar</a>, <a href="https://scholar.google.com/citations?user=Lb0HoBkAAAAJ&hl=fr" target="_blank">Google Scholar</a>
 
 # Publications
 
