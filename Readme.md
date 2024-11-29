@@ -1,10 +1,25 @@
-<img src='Theoarchambault.jpeg' width='250'>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 40%;">
+      <img src="Theoarchambault.jpeg" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 70%;">
+      I am Ph.D. in computer science applied to oceanography, at Sorbonne University, LIP6, under the supervision of Dominique Béréziat and Anastase Charantonis. I am now working at <a href="https://www.amphitrite.fr/" target="_blank">Amphitrite</a>, as a computer vision R&D researcher.<br><br>
+      I am interested in all research bridging geosciences and machine learning but I mainly study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature.<br><br>
+      During my Ph.D., <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/thesis/These_Archambault.pdf" target="_blank">(manuscript)</a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/thesis/Presentation.pdf" target="_blank">(slides)</a>, I designed deep learning models to reconstruct the Sea Surface Height (SSH) using multivariate satellite observations, notably the Sea Surface Temperature (SST). If you have any question about similar work or related matters, feel free to contact me.<br><br>
+    </td>
+  </tr>
+</table>
 
-I am Ph.D. in computer science applied to oceanography, at Sorbonne University, LIP6, under the supervision of Dominique Béréziat and Anastase Charantonis. I am now working at <a href="https://www.amphitrite.fr/" target="_blank"> Amphitrite </a>, as a computer vision R&D researcher.
-I am interested in all research bridging geosciences and machine learning but I mainly study deep learning methods to reconstruct satellite data of the ocean surface with a particular focus on sea surface height and temperature. 
-During my Ph.D., <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/thesis/These_Archambault.pdf" target="_blank"> (manuscript) </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/thesis/Presentation.pdf" target="_blank"> (slides) </a>, I designed deep learning models to reconstruct the Sea Surface Height (SSH) using multivariate satellite observations, presenting various noise sources. If you have any question about similar work or related matters feel free to contact me.
+### Contact: <a href="mailto:theo.archambault@amphitrite.fr">theo.archambault@amphitrite.fr</a>, <a href="https://www.researchgate.net/profile/Theo-Archambault" target="_blank">Research Gate</a>, <a href="https://www.semanticscholar.org/author/Th%C3%A9o-Archambault/1387907072" target="_blank">Semantic Scholar</a>, <a href="https://scholar.google.com/citations?user=Lb0HoBkAAAAJ&hl=fr" target="_blank">Google Scholar</a>
 
-Contact: <a href="mailto:theo.archambault@amphitrite.fr">theo.archambault@amphitrite.fr</a> , <a href="https://www.researchgate.net/profile/Theo-Archambault" target="_blank">Research Gate</a>,  <a href="https://www.semanticscholar.org/author/Th%C3%A9o-Archambault/1387907072" target="_blank">Semantic Scholar</a>, <a href="https://scholar.google.com/citations?user=Lb0HoBkAAAAJ&hl=fr" target="_blank">Google Scholar</a>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%; text-align: center;">
+      <img src="pictures/ssh_sst.PNG" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
 
 # Publications
 
@@ -59,17 +74,5 @@ Telecom Paris Seminar 2023: Oral presentation (on site): <a href="https://github
 Formal-v2 launch day 2023 : Poster presentation (on site): <a href="https://iscd.sorbonne-universite.fr/formal-v2-kick-off-march-21st-2023/" target="_blank"> link </a> 
 
 SAMA/SCAI study group 2022: Oral presentation (on site): <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/presentations/SAMA2022.pdf" target="_blank"> slides </a> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
