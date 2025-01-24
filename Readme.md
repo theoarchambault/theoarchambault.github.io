@@ -48,6 +48,8 @@ Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). *SSH Supe
 
 ## Preprint 
 
+Garcia, P., Larroche, I., Pesnec, A., Bull, H., Archambault, T.,  Moschos, E., Stegner, A., Charantonis, A., Béréziat, D. (2025). *ORCAst: Operational High-Resolution Current Forecasts*. ArXiv, abs/2501.12054v1. <a href="https://arxiv.org/html/2501.12054v1" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/ORCAST_PREPRINT2025.pdf" target="_blank"> file </a> 
+
 Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2023). *Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations*. ArXiv, abs/2310.07626. <a href="https://essopenarchive.org/users/670252/articles/670372-unsupervised-learning-of-sea-surface-height-interpolation-from-multi-variate-simulated-satellite-observations" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2023_preprint.pdf" target="_blank"> file </a> 
 
 
