@@ -25,6 +25,8 @@
 
 ## Journal
 
+Garcia, P., Larroche, I., Pesnec, A., Bull, H., Archambault, T.,  Moschos, E., Stegner, A., Charantonis, A., Béréziat, D. (2025). *ORCAst: Operational High-Resolution Current Forecasts*. Artif. Intell. Earth Syst., 4, e250002. <a href="https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-25-0002.1.xml" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/ORCAST_2025.pdf" target="_blank"> file </a> 
+
 Archambault, T., Filoche, A., Charantonis, A.A., Béréziat, D., & Thiria, S. (2024). *Learning Sea Surface Height Interpolation From Multi-Variate Simulated Satellite Observations*. Journal of Advances in Modeling Earth Systems (JAMES). <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS004047" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/JAMES2024.pdf" target="_blank"> file </a> 
 
 Thiria, S., Sorror, C., Archambault, T., Charantonis, A.A., Béréziat, D., Mejia, C., Molines, J.M., & Crépon, M. (2023). *Downscaling of ocean fields by fusion of heterogeneous observations using Deep Learning algorithms*. Ocean Modelling. <a href="https://www.sciencedirect.com/science/article/pii/S146350032300015X?via%3Dihub" target="_blank"> link </a> (ask me the file in an email)
@@ -34,9 +36,9 @@ Archambault, T., Charantonis, A.A., Béréziat, D., Mejia, C., & Thiria, S. (202
 
 
 ## Conference
+Garcia, P., Archambault, T., Béréziat, D., Charantonis, A.*GloFM: a GLORYS Flow-Matching emulator for spatio-temporal ocean data assimilation*. VISAPP.  HAL: hal-05450893v1. <a href="https://hal.sorbonne-universite.fr/hal-05450893v1" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2026.pdf" target="_blank"> file </a> 
 
 Archambault, T., Filoche, A., Charantonis, A., & Béréziat, D. (2024). *Pre-training and Fine-tuning Attention Based Encoder Decoder Improves Sea Surface Height Multi-variate Inpainting*. VISAPP. <a href="https://doi.org/DOI: 10.5220/0012357400003660" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2024.pdf" target="_blank"> file </a> 
-
 
 Archambault, T., Filoche, A., Charantonis, A.A., & Béréziat, D. (2023). *Multimodal Unsupervised Spatio-Temporal Interpolation of Satellite Ocean Altimetry Maps*. VISAPP.<a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0011620100003417" target="_blank"> link </a> , <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/VISAPP2023.pdf" target="_blank"> file </a> 
 
@@ -47,6 +49,8 @@ Archambault, T. ,Filoche, A., Charantonis, A.A., & Béréziat, D. (2022). *Unlea
 Archambault, T., Charantonis, A., Béréziat, D., & Thiria, S. (2022). *SSH Super-Resolution using high resolution SST with a Subpixel Convolutional Residual Network*. Climate Informatics. <a href="https://www.semanticscholar.org/paper/Sea-surface-height-super-resolution-using-sea-with-Archambault-Charantonis/3784e709ef4b5301e33bbfe119b91c1c7acd0204" target="_blank">link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/CI2021.pdf" target="_blank"> file </a> 
 
 ## Preprint 
+
+
 
 Garcia, P., Larroche, I., Pesnec, A., Bull, H., Archambault, T.,  Moschos, E., Stegner, A., Charantonis, A., Béréziat, D. (2025). *ORCAst: Operational High-Resolution Current Forecasts*. ArXiv, abs/2501.12054v1. <a href="https://arxiv.org/html/2501.12054v1" target="_blank"> link </a>, <a href="https://github.com/theoarchambault/theoarchambault.github.io/blob/main/articles/ORCAST_PREPRINT2025.pdf" target="_blank"> file </a> 
 
